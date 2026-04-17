@@ -1,6 +1,6 @@
 This repository is to replicate the main results in the paper "Racial Disparities in Crime and Wealth" by Ayse Imrohoroglu, Cagri S. Kumru, and Jiu Lian.
 
-All the related Fortran, Stata, and MATLAB code is contained in "Replication_codes.zip". One can download it to a local device and unzip it.
+All the related Fortran, Stata, and MATLAB code is contained in ["Replication_codes.zip"](https://github.com/JiuLian9/racial-disparities-crime-wealth-replication/blob/main/Replication_codes.zip). One can download it to a local device and unzip it.
 
 Due to data distribution rules, we did not include the raw data in this repository. One can download the data from each data source’s website before using the replication package.
 
