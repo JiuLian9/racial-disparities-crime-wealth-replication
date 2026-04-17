@@ -7,8 +7,12 @@ To ensure the smooth use of the Stata codes in this repository, please save the 
 The main data we used can be downloaded here:
 
 SCF (2019): https://www.federalreserve.gov/econres/scf_2019.htm
+
 MORG (1996-2017): https://data.nber.org/morg/annual/
+
 NLYS79: https://www.nlsinfo.org/investigator/pages/home
+
 PSID: https://psidonline.isr.umich.edu/
+
 ACS: https://usa.ipums.org/usa-action/samples
 
