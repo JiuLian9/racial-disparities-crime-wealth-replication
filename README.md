@@ -20,4 +20,3 @@ ACS: https://usa.ipums.org/usa-action/samples
 
 If you have any trouble when using the replication package, please raise a discussion [here](https://github.com/JiuLian9/racial-disparities-crime-wealth-replication/discussions) and we will get back to you as soon as possible.
 
-Jiu
